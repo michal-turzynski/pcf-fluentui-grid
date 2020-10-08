@@ -7,3 +7,5 @@
 - PowerApps theme 
 
 ## Sample
+
+![Sample data grid](https://github.com/michal-turzynski/pcf-fluentui-grid/raw/main/docs/simple-grid.png)

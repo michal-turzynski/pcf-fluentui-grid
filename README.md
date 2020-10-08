@@ -2,8 +2,8 @@
 
 ## Details:
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/controls/web)
-- React functional component
-- Reacts Hooks support
+- [React](https://reactjs.org/) functional component
+- [Reacts Hooks](https://reactjs.org/docs/hooks-overview.html) support
 - PowerApps theme 
 
 ## Sample
